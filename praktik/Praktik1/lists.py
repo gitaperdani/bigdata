@@ -23,4 +23,12 @@ Type "copyright", "credits" or "license()" for more information.
 >>> cubes[3] = 64  # replace the wrong value
 >>> cubes
 [1, 8, 27, 64, 125]
+>>> letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g']
+>>> latters
+Traceback (most recent call last):
+  File "<pyshell#14>", line 1, in <module>
+    latters
+NameError: name 'latters' is not defined
+>>> letters
+['a', 'b', 'c', 'd', 'e', 'f', 'g']
 >>> 
