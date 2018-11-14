@@ -2,7 +2,7 @@
 ## Intall Jupyter Notebook
 ### 
 	(base) C:\Users\Gita Perdani>conda install ipython jupyter
-## Running Jupter Notebook
+## Running Jupyter Notebook
 ### 
 	(base) C:\Users\Gita Perdani>jupyter notebook
 	[I 13:55:17.077 NotebookApp] Writing notebook server cookie secret to C:\Users\Gita Perdani\AppData\Roaming\jupyter\runtime\notebook_cookie_secret
