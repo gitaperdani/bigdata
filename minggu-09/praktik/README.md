@@ -1,5 +1,5 @@
 # Catatan Praktik Big Data Minggu 1
-## Intall Jupyter Notebook
+## Install Jupyter Notebook
 ### 
 	(base) C:\Users\Gita Perdani>conda install ipython jupyter
 ## Running Jupyter Notebook
