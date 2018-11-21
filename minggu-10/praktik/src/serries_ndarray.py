@@ -1,0 +1,15 @@
+import numpy as np
+
+import pandas as pd
+
+s = pd.Series(np.random.randn(5), index=['a', 'b', 'c', 'd', 'e'])
+
+print (s[0])
+print (s[:3])
+print (s[s > s.median()])
+print (s[[4, 3, 1]])
+print (np.exp(s))
+print (s['a'])
+
+s['e'] = 12
+print (s)
