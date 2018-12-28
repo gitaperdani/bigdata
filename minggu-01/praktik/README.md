@@ -19,3 +19,13 @@ fakta --> Data --> informasi , informasi tersebut terdapat media yaitu
 * git add -A
 * git commit -m "Mengisikan Pesan"
 * git push -u origin master
+
+
+## langkah-langkah untuk instalasi Python di windows 10
+### 
+	1. Download python-3.7.0
+	2. Setelah download selesai akan mendapatkan file python-3.7.0 , klik ganda pada file tersebut untuk melakukan pengintalan dan ikuti perintahnya dengan klik tombol next hingga finish
+	3. Setelah selesai melakukan pengistalan , untuk melakukan uji coba apakah pengistalan python sudah berhasil. Membuka Python Shell dan mengetikkan beberapa perintah.  
+	
+
+
