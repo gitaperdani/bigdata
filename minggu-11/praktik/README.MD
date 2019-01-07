@@ -35,3 +35,12 @@
 	[I 13:38:52.851 NotebookApp] Saving file at /Chapter 03 Beginning Data Analysis.ipynb
 	[W 13:38:52.851 NotebookApp] Notebook Chapter 03 Beginning Data Analysis.ipynb is not trusted
 
+## Chapter 3 Pandas Cookbook
+#### download data yang digunakan pada (https://github.com/PacktPublishing/Pandas-Cookbook)
+
+## Chapter 3
+* Developing a data analysis routine
+* Reducing memory by changing data types
+* Selecting the smallest of the largest
+* Selecting the largest of each group by sorting
+* Replicating nlargest with sort_values
