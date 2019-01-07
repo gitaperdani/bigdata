@@ -36,15 +36,15 @@
 * Finding the most common maximum
 
 ## Chapter 7: Grouping for Aggregation, Filtration and Transformation
-Defining an aggregation
-Grouping and aggregating with multiple columns and functions
-Removing the MultiIndex after grouping
-Customizing an aggregation function
-Customizing aggregating functions with *args and **kwargs
-Examining the groupby object
-Filtering for states with a minority majority
-Transforming through a weight loss bet
-Calculating weighted mean SAT scores per state with apply
-Grouping by continuous variables
-Counting the total number of flights between cities
-Finding the longest streak of on-time flights
+* Defining an aggregation
+* Grouping and aggregating with multiple columns and functions
+* Removing the MultiIndex after grouping
+* Customizing an aggregation function
+* Customizing aggregating functions with *args and **kwargs
+* Examining the groupby object
+* Filtering for states with a minority majority
+* Transforming through a weight loss bet
+* Calculating weighted mean SAT scores per state with apply
+* Grouping by continuous variables
+* Counting the total number of flights between cities
+* Finding the longest streak of on-time flights
